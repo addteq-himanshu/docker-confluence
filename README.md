@@ -3,7 +3,7 @@ Based on:
 
 Docker image polinux/centos7:latest
 
-Confluence 5.5.3
+Confluence 5.5.6
 
 Java 1.7.0
 
